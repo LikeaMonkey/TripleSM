@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrippleSM.CSharp.Plugins", "TrippleSM.CSharp.Plugins.csproj", "{264635C3-B716-1DD7-E622-775C2941B009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrippleSM.CSharp", "TrippleSM.CSharp.csproj", "{70117379-30BA-841C-8FF4-055F40A0EC5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrippleSM.CSharp.Editor", "TrippleSM.CSharp.Editor.csproj", "{AFBD82DF-1E2A-E7BA-D18B-13DB5F32F53F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{264635C3-B716-1DD7-E622-775C2941B009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264635C3-B716-1DD7-E622-775C2941B009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264635C3-B716-1DD7-E622-775C2941B009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264635C3-B716-1DD7-E622-775C2941B009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70117379-30BA-841C-8FF4-055F40A0EC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70117379-30BA-841C-8FF4-055F40A0EC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70117379-30BA-841C-8FF4-055F40A0EC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70117379-30BA-841C-8FF4-055F40A0EC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFBD82DF-1E2A-E7BA-D18B-13DB5F32F53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBD82DF-1E2A-E7BA-D18B-13DB5F32F53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBD82DF-1E2A-E7BA-D18B-13DB5F32F53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBD82DF-1E2A-E7BA-D18B-13DB5F32F53F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: 13c9c2acef11c6a48a2f7df311501bf7
+timeCreated: 1461856029
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bronze_tile_walkway_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 31, y: 67, z: 79, w: 347}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bronze_tile_walkway_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 65
+        width: 662
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 331, y: 11.5}
+        - {x: 330, y: 29.5}
+        - {x: 327, y: 77.5}
+        - {x: 311, y: 92.5}
+        - {x: 109, y: 92.5}
+        - {x: 104, y: 89.5}
+        - {x: 93, y: 78.5}
+        - {x: 86, y: 86.5}
+        - {x: 77, y: 93.5}
+        - {x: -69, y: 93.5}
+        - {x: -81, y: 82.5}
+        - {x: -95, y: 92.5}
+        - {x: -98, y: 93.5}
+        - {x: -318, y: 93.5}
+        - {x: -331, y: 80.5}
+        - {x: -331, y: 9.5}
+        - {x: -330, y: -12.5}
+        - {x: -328, y: -52.5}
+        - {x: -325, y: -72.5}
+        - {x: -316, y: -87.5}
+        - {x: -312, y: -93.5}
+        - {x: -130, y: -93.5}
+        - {x: -121, y: -88.5}
+        - {x: -107, y: -75.5}
+        - {x: -101, y: -82.5}
+        - {x: -94, y: -90.5}
+        - {x: -91, y: -93.5}
+        - {x: 91, y: -93.5}
+        - {x: 101, y: -83.5}
+        - {x: 110, y: -75.5}
+        - {x: 119, y: -84.5}
+        - {x: 130, y: -92.5}
+        - {x: 135, y: -94.5}
+        - {x: 317, y: -94.5}
+        - {x: 319, y: -93.5}
+        - {x: 327, y: -80.5}
+        - {x: 331, y: -72.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

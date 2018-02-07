@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 7e94f96e3b7c27e4db2c10439380a3d0
+timeCreated: 1461869702
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RPGpack_sheet_0
+    21300002: RPGpack_sheet_1
+    21300004: RPGpack_sheet_2
+    21300006: RPGpack_sheet_3
+    21300008: RPGpack_sheet_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RPGpack_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 336
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 23}
+        - {x: -25, y: -23}
+        - {x: 25, y: -23}
+        - {x: 25, y: 23}
+    - name: RPGpack_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 317
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 23.5}
+        - {x: -28.5, y: -23.5}
+        - {x: 28.5, y: -23.5}
+        - {x: 28.5, y: 23.5}
+    - name: RPGpack_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 585
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 23}
+        - {x: -25.5, y: -23}
+        - {x: 25.5, y: -23}
+        - {x: 25.5, y: 23}
+    - name: RPGpack_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 714
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 28.5}
+        - {x: -32.5, y: -28.5}
+        - {x: 32.5, y: -28.5}
+        - {x: 32.5, y: 28.5}
+    - name: RPGpack_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 784
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 22.5}
+        - {x: -26, y: -22.5}
+        - {x: 26, y: -22.5}
+        - {x: 26, y: 22.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
